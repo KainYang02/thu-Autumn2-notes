@@ -12,3 +12,9 @@
 * 大学物理（B2） - physics
 
 * 抽象代数 - algebra
+
+注：如果markdown文档的github预览出现问题可以选择：
+
+1. 下载到本地浏览
+
+2. 使用github.dev打开
